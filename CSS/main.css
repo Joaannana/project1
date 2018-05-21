@@ -1,0 +1,30 @@
+h1 {
+  color: red;
+}
+.box {
+  width: 100%;
+  height: 200px;
+  background: brown;
+  margin: 20px;
+}
+.header-dark {
+  background: lightgrey;
+}
+.carousel-inner {
+  display: flex;
+  justify-content: center;
+}
+
+.slider-smaller {
+  width: 50%;
+  margin: 40px auto;
+
+}
+
+.logo {
+  width: 70%;
+}
+
+.background-pink {
+  background: pink;
+}
